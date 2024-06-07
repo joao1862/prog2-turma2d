@@ -11,3 +11,8 @@
     color: var(--branco-principal);
     display: block;
 }
+
+
+.principal {
+    background-image: url("img/background.png");
+}
